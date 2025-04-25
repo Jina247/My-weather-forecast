@@ -15,7 +15,8 @@ This is a Python-based weather app that uses the [OpenWeatherMap API](https://op
 - OpenWeatherMap API  
 
 ### 💡 Example Output
-```In Perth, today is 23.57°C
+```
+In Perth, today is 23.57°C
 Highest temperature is 26.00°C
 Lowest temperature is 20.50°C
 
